@@ -1,2 +1,5 @@
-# intermediate-APythonData-v2
-A intermediate level coding project: A Python Data Pipeline variation 2. Authored by Anurag Tewary.
+# A Python Data Pipeline variation 2
+
+This is an auto-generated fallback project because the AI engine was offline.
+
+Authored by Anurag Tewary.
